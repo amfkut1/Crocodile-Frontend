@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 1px solid rgb(151, 207, 119);
+}
+
+h1 {
+  color: blueviolet;
+}
+
+.container {
+  width: 90%;
+}
+
+.allarea {
+  display: flex;
+}
+
+.menu {
+  width: 98px;
+}
+
+.mainarea {
+  width: 67%;
+}
+
+.workarea {
+  display: flex;
+}
